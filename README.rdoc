@@ -1,28 +1,7 @@
-== README
+README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is about a new website that I'm trying to build. I got tired of Wordpress... doing the same types of websites over and over again, so I thought I'd give Rails a shot. I have a friend who asked me to build a website about [discount flooring pensacola fl](https://act1flooringclearance.com) and I said "why not?".
 
-Things you may want to cover:
+![discount flooring](https://www.homedepot.ca/is/image/content/dam/images/categories/floors/wood-flooring-V2-632x348.jpg)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+So I have a lot to learn, but I really want to do this. Thanks for this great GitHub website that allows so many cool things.
